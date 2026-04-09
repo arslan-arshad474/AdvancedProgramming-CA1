@@ -19,13 +19,11 @@ def scrape_data():
     data = []
 
     for book in books:
-        # Title
+
         title = book.h3.a["title"]
 
-        # Price
         price = book.find("p", class_="price_color").text.replace("Â", "").strip()
 
-        # Rating
         rating = book.find("p", class_="star-rating")["class"][1]
 
         data.append([title, price, rating])
