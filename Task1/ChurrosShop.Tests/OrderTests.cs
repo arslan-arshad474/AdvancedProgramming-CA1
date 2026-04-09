@@ -4,16 +4,18 @@ using ChurrosShop;
 namespace ChurrosShop.Tests
 {
     [TestClass]
-    public class OrderTests
+    public sealed class PayBillTests
     {
         [TestMethod]
-        public void PayBill_ReturnsCorrectBill()
+        public void Test_PayBill()
         {
-            Order order = new Order("Plain sugar", 3, 18.00m);
+            Order order1 = new Order("Plain sugar", 3, 18.00m);
 
-            decimal result = order.PayBill();
+            decimal result;
 
-            Assert.AreEqual(18.00m, result);
+            result = order1.PayBill();
+
+            Assert.AreEqual(result, 18.00m);
         }
     }
 }

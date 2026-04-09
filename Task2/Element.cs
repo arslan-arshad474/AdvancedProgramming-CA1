@@ -4,17 +4,37 @@ namespace PeriodicTable
 {
     public class Element
     {
-        public int AtomicNumber { get; set; }
-        public string Name { get; set; }
-        public string Classification { get; set; }
-        public string Description { get; set; }
+        private int _atomicNumber;
+        private string _name;
+        private string _class;
+        private string _description;
 
-        public Element(int atomicNumber, string name, string classification, string description)
+        public Element(int atomicNumber, string name, string elementClass, string description)
         {
-            AtomicNumber = atomicNumber;
-            Name = name;
-            Classification = classification;
-            Description = description;
+            _atomicNumber = atomicNumber;
+            _name = name;
+            _class = elementClass;
+            _description = description;
+        }
+
+        public int GetAtomicNumber()
+        {
+            return _atomicNumber;
+        }
+
+        public string GetName()
+        {
+            return _name;
+        }
+
+        public string GetClass()
+        {
+            return _class;
+        }
+
+        public string GetDescription()
+        {
+            return _description;
         }
     }
 }
