@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HnsDrRrLPDA=",
+  "dgSpecHash": "dD2DktIqY00=",
   "success": true,
-  "projectFilePath": "/Users/new/Downloads/MS Cybersecurity/Advanced Programming Techniques/CA1/AdvancedProgramming-CA1-1/Task1/ChurrosShop/ChurrosShop.csproj",
+  "projectFilePath": "/Users/new/Downloads/MS Cybersecurity/Advanced Programming Techniques/CA1/AdvancedProgramming-CA1/Task1/ChurrosShop/ChurrosShop.csproj",
   "expectedPackageFiles": [
     "/Users/new/.nuget/packages/microsoft.netcore.app.ref/6.0.36/microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
     "/Users/new/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.36/microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",

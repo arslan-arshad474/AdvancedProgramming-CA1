@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/new/Downloads/MS Cybersecurity/Advanced Programming Techniques/CA1/AdvancedProgramming-CA1-1/Task1/ChurrosShop/ChurrosShop.csproj",
+      "projectUniqueName": "/Users/new/Downloads/MS Cybersecurity/Advanced Programming Techniques/CA1/AdvancedProgramming-CA1/Task1/ChurrosShop/ChurrosShop.csproj",
       "projectName": "ChurrosShop",
-      "projectPath": "/Users/new/Downloads/MS Cybersecurity/Advanced Programming Techniques/CA1/AdvancedProgramming-CA1-1/Task1/ChurrosShop/ChurrosShop.csproj",
+      "projectPath": "/Users/new/Downloads/MS Cybersecurity/Advanced Programming Techniques/CA1/AdvancedProgramming-CA1/Task1/ChurrosShop/ChurrosShop.csproj",
       "packagesPath": "/Users/new/.nuget/packages/",
-      "outputPath": "/Users/new/Downloads/MS Cybersecurity/Advanced Programming Techniques/CA1/AdvancedProgramming-CA1-1/Task1/ChurrosShop/obj/",
+      "outputPath": "/Users/new/Downloads/MS Cybersecurity/Advanced Programming Techniques/CA1/AdvancedProgramming-CA1/Task1/ChurrosShop/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/new/.nuget/NuGet/NuGet.Config"

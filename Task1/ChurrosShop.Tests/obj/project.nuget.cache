@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LQm6FAxvvq8=",
+  "dgSpecHash": "v3Rqt1MN1AY=",
   "success": true,
-  "projectFilePath": "/Users/new/Downloads/MS Cybersecurity/Advanced Programming Techniques/CA1/AdvancedProgramming-CA1-1/Task1/ChurrosShop.Tests/ChurrosShop.Tests.csproj",
+  "projectFilePath": "/Users/new/Downloads/MS Cybersecurity/Advanced Programming Techniques/CA1/AdvancedProgramming-CA1/Task1/ChurrosShop.Tests/ChurrosShop.Tests.csproj",
   "expectedPackageFiles": [
     "/Users/new/.nuget/packages/microsoft.codecoverage/17.8.0/microsoft.codecoverage.17.8.0.nupkg.sha512",
     "/Users/new/.nuget/packages/microsoft.net.test.sdk/17.8.0/microsoft.net.test.sdk.17.8.0.nupkg.sha512",
