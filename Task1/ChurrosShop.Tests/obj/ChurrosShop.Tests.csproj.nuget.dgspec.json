@@ -1,0 +1,168 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/new/Downloads/MS Cybersecurity/Advanced Programming Techniques/CA1/AdvancedProgramming-CA1/Task1/ChurrosShop.Tests/ChurrosShop.Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/new/Downloads/MS Cybersecurity/Advanced Programming Techniques/CA1/AdvancedProgramming-CA1/Task1/ChurrosShop.Tests/ChurrosShop.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/new/Downloads/MS Cybersecurity/Advanced Programming Techniques/CA1/AdvancedProgramming-CA1/Task1/ChurrosShop.Tests/ChurrosShop.Tests.csproj",
+        "projectName": "ChurrosShop.Tests",
+        "projectPath": "/Users/new/Downloads/MS Cybersecurity/Advanced Programming Techniques/CA1/AdvancedProgramming-CA1/Task1/ChurrosShop.Tests/ChurrosShop.Tests.csproj",
+        "packagesPath": "/Users/new/.nuget/packages/",
+        "outputPath": "/Users/new/Downloads/MS Cybersecurity/Advanced Programming Techniques/CA1/AdvancedProgramming-CA1/Task1/ChurrosShop.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/new/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/new/Downloads/MS Cybersecurity/Advanced Programming Techniques/CA1/AdvancedProgramming-CA1/Task1/ChurrosShop/ChurrosShop.csproj": {
+                "projectPath": "/Users/new/Downloads/MS Cybersecurity/Advanced Programming Techniques/CA1/AdvancedProgramming-CA1/Task1/ChurrosShop/ChurrosShop.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.103/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/new/Downloads/MS Cybersecurity/Advanced Programming Techniques/CA1/AdvancedProgramming-CA1/Task1/ChurrosShop/ChurrosShop.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/new/Downloads/MS Cybersecurity/Advanced Programming Techniques/CA1/AdvancedProgramming-CA1/Task1/ChurrosShop/ChurrosShop.csproj",
+        "projectName": "ChurrosShop",
+        "projectPath": "/Users/new/Downloads/MS Cybersecurity/Advanced Programming Techniques/CA1/AdvancedProgramming-CA1/Task1/ChurrosShop/ChurrosShop.csproj",
+        "packagesPath": "/Users/new/.nuget/packages/",
+        "outputPath": "/Users/new/Downloads/MS Cybersecurity/Advanced Programming Techniques/CA1/AdvancedProgramming-CA1/Task1/ChurrosShop/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/new/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-x64",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.103/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
